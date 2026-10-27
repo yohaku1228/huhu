@@ -25,7 +25,7 @@ OpenAI SitesやChatGPTログインは必要ありません。GitHub Pages単体�
 ## Cloudflare管理画面から公開する手順
 
 1. Workers & Pages → Create application → Continue with GitHub
-2. `marukan1228sr/huhu` リポジトリを選択
+2. `yohaku1228/huhu` リポジトリを選択
 3. Project name：`huhu`
 4. Build command：`npm run build`
 5. **Deploy command：`npm run deploy`**（標準の `npx wrangler deploy` から変更）
